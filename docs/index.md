@@ -4,7 +4,6 @@ layout: default
 
 <link rel="stylesheet" href="styles/styles.css">
 
-
 I am Mohayemin, a PhD student working at [Software Maintenance and Reuse (SMR) Lab](https://sarahnadi.org/smr/), [Department of Computing Science](https://www.cs.ualberta.ca/), [University of Alberta](https://www.ualberta.ca/). 
 My research focuses on *library migration*, the process of replacing one library with another in a software application.
 My research goal is to develop tools and techniques for efficient and reliable library migration.
@@ -12,6 +11,10 @@ My research goal is to develop tools and techniques for efficient and reliable l
 Previously I taught Software Engineering at the [Islamic University of Technology (IUT)](https://www.iutoic-dhaka.edu/).
 Before that, I worked at [Streams Tech Ltd](https://www.streamstech.com.bd/) as a Software Engineer.
 I did my MSc and BSc in Software Engineering at [Institute of Information Technology](http://www.iit.du.ac.bd/), [University of Dhaka](https://www.du.ac.bd/).
+
+## Contact
+* Email: <a href="mailto:mohayemin@ualberta.ca">mohayemin@ualberta.ca</a>
+* GitHub: [mohayemin](github.com/mohayemin)
 
 ## Publications  
 <div class="paper">
