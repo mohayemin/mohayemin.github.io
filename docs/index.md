@@ -16,7 +16,18 @@ I did my MSc and BSc in Software Engineering at [Institute of Information Techno
 * Email: <a href="mailto:mohayemin@ualberta.ca">mohayemin@ualberta.ca</a>
 * GitHub: [mohayemin](github.com/mohayemin)
 
-## Publications  
+## Publications
+<div class="paper">
+    <div class="head">
+        <div class="title">An Empirical Study of Python Library Migration Using Large Language Models</div>
+        <div class="links">
+            coming soon
+        </div>
+    </div>
+    <div class="title"></div>  
+    <div class="author">Mohayeminul Islam, Ajay Kumar Jha, May Mahmoud, Ildar Akhmetov, and Sarah Nadi</div>
+    <div class="venue">International Conference on Automated Software Engineering (ASE), 2025 </div>
+</div>  
 <div class="paper">
     <div class="head">
         <div class="title">Characterizing Python Library Migrations</div>
