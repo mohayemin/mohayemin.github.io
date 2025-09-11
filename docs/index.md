@@ -14,7 +14,7 @@ I did my MSc and BSc in Software Engineering at [Institute of Information Techno
 
 ## Contact
 * Email: <a href="mailto:mohayemin@ualberta.ca">mohayemin@ualberta.ca</a>
-* GitHub: [mohayemin](github.com/mohayemin)
+* GitHub: [mohayemin](https://github.com/mohayemin)
 
 ## Publications
 <div class="paper">
