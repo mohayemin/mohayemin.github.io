@@ -1,27 +1,7 @@
 ---
 ---
 
-.paper {
-  margin-bottom: 1rem;
-  .head {
-    display: flex;
-    .title {
-      font-weight: bold;
-    }
-    .links {
-        margin-left: 1rem;        
-    }
-    .links::before {
-        content: '[';
-    }
-    .links::after {
-        content: ']';
-    }
-  }
-  .venue {
-    font-style: italic;
-  }
-}
+
 
 footer {
   display: none !important;

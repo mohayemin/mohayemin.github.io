@@ -2,69 +2,24 @@
 layout: default
 ---
 
-<link rel="stylesheet" href="styles/styles.css">
+{% include common-head.html %}
 
-I am Mohayemin, a PhD student working at [Software Maintenance and Reuse (SMR) Lab](https://sarahnadi.org/smr/), [Department of Computing Science](https://www.cs.ualberta.ca/), [University of Alberta](https://www.ualberta.ca/). 
-My research focuses on *library migration*, the process of replacing one library with another in a software application.
-My research goal is to develop tools and techniques for efficient and reliable library migration.
+I am Mohayemin, a software engineer and researcher.  
 
-Previously I taught Software Engineering at the [Islamic University of Technology (IUT)](https://www.iutoic-dhaka.edu/).
-Before that, I worked at [Streams Tech Ltd](https://www.streamstech.com.bd/) as a Software Engineer.
+I finished my PhD in Software Engineering under the supervision of [Dr. Sarah Nadi](https://sanadlab.org/profiles/sarah/) at the University of Alberta in 2025. 
+In my PhD, I focused on *library migration*, the process of replacing one library with another in a software application. 
+I built PyMigTool, a tool that automates library migration in Python applications using program synthesis and large language models.
+<small>[_more on my research_](/research)</small>.
+
+I taught Software Engineering at the [Islamic University of Technology (IUT)](https://www.iutoic-dhaka.edu/). <small>[_more on my teaching_](/teaching)</small>.
+
+I also worked as a Software Engineer at [Streams Tech Ltd](https://www.streamstech.com.bd/), where I developed GIS applications and web applications using various technologies. <small>[_more on my industry experience_](/dev)</small>.
+
 I did my MSc and BSc in Software Engineering at [Institute of Information Technology](http://www.iit.du.ac.bd/), [University of Dhaka](https://www.du.ac.bd/).
 
 ## Contact
 * Email: <a href="mailto:mohayemin@ualberta.ca">mohayemin@ualberta.ca</a>
 * GitHub: [mohayemin](https://github.com/mohayemin)
 
-## Publications
-<div class="paper">
-    <div class="head">
-        <div class="title">An Empirical Study of Python Library Migration Using Large Language Models</div>
-        <div class="links">
-            <a href="/papers/llmmig-ase-25.pdf">PDF</a>
-        </div>
-    </div>
-    <div class="title"></div>  
-    <div class="author">Mohayeminul Islam, Ajay Kumar Jha, May Mahmoud, Ildar Akhmetov, and Sarah Nadi</div>
-    <div class="venue">International Conference on Automated Software Engineering (ASE), 2025 </div>
-</div>  
-<div class="paper">
-    <div class="head">
-        <div class="title">Characterizing Python Library Migrations</div>
-        <div class="links">
-            <a href="https://ualberta-smr.github.io/PyMigBench/">Data</a> | 
-            <a href="/papers/characterizing-fse-24.pdf">PDF</a>
-        </div>
-    </div>
-    <div class="title"></div>  
-    <div class="author">Mohayeminul Islam, Ajay Kumar Jha, Ildar Akhmetov, and Sarah Nadi</div>
-    <div class="venue">In Proceedings of the ACM International Conference on the Foundations of Software Engineering (FSE), 2024 </div>
-</div>
-<div class="paper">
-    <div class="head">
-        <div class="title">PyMigBench: A Benchmark for Python Library Migration</div>
-        <div class="links">
-            <a href="https://ualberta-smr.github.io/PyMigBench/">Data</a> | 
-            <a href="/papers/pymigbench-msr-23.pdf">PDF</a>
-        </div>
-    </div>  
-    
-    <div class="author"> Mohayeminul Islam, Ajay Kumar Jha, Sarah Nadi, and Ildar Akhmetov</div>
-    <div class="venue"> In Proceedings of the 20th ACM International Conference on Mining Software Repositories (MSR) – Data Showcase Track, 2023</div>
-</div>
-<div class="paper">
-    <div class="head">
-        <div class="title">An Empirical Study on Bugs Inside PyTorch: A Replication Study</div>
-        <div class="links">
-            <a href="https://ieeexplore.ieee.org/document/10336350">HTML</a>
-        </div>
-    </div>
-    <div class="author">Sharon Chee Yin Ho, Vahid Majdinasab, Mohayeminul Islam, Diego Elias Costa, Emad Shihab, Foutse Khomh, Sarah Nadi, and Muhammad Raza</div>
-    <div class="venue">IEEE International Conference on Software Maintenance and Evolution (ICSME), 2023</div>
-</div>
 
-## Teaching
-* SWE 4601 - Software Design and Architecture (Winter 2020, [IUT](https://www.iutoic-dhaka.edu/))
-* SWE 4501 - Design Patterns (Summer 2019, [IUT](https://www.iutoic-dhaka.edu/))
-* SWE 4401 - Software Requirements Specification (Summer 2019, [IUT](https://www.iutoic-dhaka.edu/))
-* SWE 4301 - Object Oriented Concepts II (Summer 2019, [IUT](https://www.iutoic-dhaka.edu/))
+

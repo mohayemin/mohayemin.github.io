@@ -29,4 +29,7 @@ theme: minima
 plugins:
   - jekyll-feed
 
-
+header_pages:
+  - pages/research.md
+  - pages/teaching.md
+  - pages/dev.md 
