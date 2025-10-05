@@ -6,7 +6,12 @@ permalink: /research/
 {% include common-head.html %}
 <link rel="stylesheet" href="/styles/research.css">
 
-## Selected Publications
+I defended my PhD in August 2025 under the supervision of [Dr. Sarah Nadi](https://sanadlab.org/profiles/sarah/) at the University of Alberta.
+My research focuses on *library migration*, the process of replacing one library with another in a software application.
+During my PhD, I built a benchmark of real-world Python library migrations and a taxonomy of migration-related code changes,
+and I developed [PyMigTool](https://github.com/sanadlab/PyMigTool), a tool that automates library migration in Python applications using LLMs and program analysis techniques.
+
+### Selected Publications
 <div class="paper">
     <div class="head">
         <div class="title">An Empirical Study of Python Library Migration Using Large Language Models</div>
