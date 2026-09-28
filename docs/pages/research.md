@@ -14,6 +14,16 @@ and I developed [PyMigTool](https://github.com/sanadlab/PyMigTool), a tool that 
 ### Selected Publications
 <div class="paper">
     <div class="head">
+        <div class="title">MigrateLib: A Tool for End-to-End Python Library Migration</div>
+        <div class="links">
+            <a href="/papers/migratelib-emse-26.pdf">PDF</a>
+        </div>
+    </div>
+    <div class="author">Mohayeminul Islam, Ajay Kumar Jha, May Mahmoud, and Sarah Nadi</div>
+    <div class="venue">Empirical Software Engineering (EMSE) (Accepted to appear) </div>
+</div>
+<div class="paper">
+    <div class="head">
         <div class="title">An Empirical Study of Python Library Migration Using Large Language Models</div>
         <div class="links">
             <a href="/papers/llmmig-ase-25.pdf">PDF</a>
